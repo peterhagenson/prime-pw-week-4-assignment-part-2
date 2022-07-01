@@ -1,5 +1,13 @@
 header {
-  background-color: aqua;
-  background: aqua;
-  color: blue;
+  background-color: steelblue;
+}
+
+.info {
+  background-color: forestgreen;
+  color: rgb(73, 70, 70);
+}
+
+h3 {
+  background-color: steelblue;
+  color: rgb(17, 72, 17);
 }
